@@ -10,8 +10,7 @@ header {
     padding: 10px;
     display: inline-block;
     top: 0;
-    position: fixed;
-    height: 80px;
+    height: 100px;
 }
 
 .logo img{
@@ -43,7 +42,7 @@ nav ul li a:hover {
 }
 
 .texto {
-    margin-top: 100px;
+    margin-top: 25px;
     text-align: center;
 }
 
